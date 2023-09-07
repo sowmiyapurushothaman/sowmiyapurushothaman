@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bizcard/static/css/main.073c9b0a.css",
-    "main.js": "/bizcard/static/js/main.61dbefc5.js",
-    "static/js/787.9f46e9ce.chunk.js": "/bizcard/static/js/787.9f46e9ce.chunk.js",
-    "static/media/logo.svg": "/bizcard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/bizcard/index.html",
-    "main.073c9b0a.css.map": "/bizcard/static/css/main.073c9b0a.css.map",
-    "main.61dbefc5.js.map": "/bizcard/static/js/main.61dbefc5.js.map",
-    "787.9f46e9ce.chunk.js.map": "/bizcard/static/js/787.9f46e9ce.chunk.js.map"
+    "main.css": "/sowmiyapurushothaman/sowmiyapurushothaman/bizcard.git/static/css/main.073c9b0a.css",
+    "main.js": "/sowmiyapurushothaman/sowmiyapurushothaman/bizcard.git/static/js/main.2f3e743d.js",
+    "static/js/787.9f46e9ce.chunk.js": "/sowmiyapurushothaman/sowmiyapurushothaman/bizcard.git/static/js/787.9f46e9ce.chunk.js",
+    "static/media/logo.svg": "/sowmiyapurushothaman/sowmiyapurushothaman/bizcard.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sowmiyapurushothaman/sowmiyapurushothaman/bizcard.git/index.html",
+    "main.073c9b0a.css.map": "/sowmiyapurushothaman/sowmiyapurushothaman/bizcard.git/static/css/main.073c9b0a.css.map",
+    "main.2f3e743d.js.map": "/sowmiyapurushothaman/sowmiyapurushothaman/bizcard.git/static/js/main.2f3e743d.js.map",
+    "787.9f46e9ce.chunk.js.map": "/sowmiyapurushothaman/sowmiyapurushothaman/bizcard.git/static/js/787.9f46e9ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.61dbefc5.js"
+    "static/js/main.2f3e743d.js"
   ]
 }
